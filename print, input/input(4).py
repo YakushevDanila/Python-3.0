@@ -1,0 +1,6 @@
+n = input()
+m = input()
+v = input()
+print(v)
+print(m)
+print(n)
