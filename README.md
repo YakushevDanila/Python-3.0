@@ -4,4 +4,4 @@
 
 
 Для удобства поделил все задачи на блоки: 
-### 1. [Print, Input](http://example.com/ "Необязательная подсказка](http://example.com/ "Необязательная подсказка")
+### 1. Print, Input(https://github.com/YakushevDanila/Python-3.0/tree/main/print%2C%20input)
