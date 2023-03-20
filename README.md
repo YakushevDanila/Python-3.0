@@ -4,4 +4,4 @@
 
 
 Для удобства поделил все задачи на блоки: 
-### 1. Print, Input (#print,input)
+### 1. [Print, Input](http://example.com/ "Необязательная подсказка](http://example.com/ "Необязательная подсказка")
